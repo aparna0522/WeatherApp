@@ -1,0 +1,35 @@
+[
+  {
+    "city":"Los Angeles",
+    "country":"US",
+    "temp_celsius":20.68,
+    "feels_like_celsius":20.81,
+    "weather_main":"Clouds",
+    "weather_desc":"overcast clouds",
+    "humidity":77,
+    "wind_speed":6.17,
+    "timestamp_utc":"2025-07-14 01:53:33"
+  },
+  {
+    "city":"Mumbai",
+    "country":"IN",
+    "temp_celsius":27.99,
+    "feels_like_celsius":32.54,
+    "weather_main":"Clouds",
+    "weather_desc":"broken clouds",
+    "humidity":83,
+    "wind_speed":3.6,
+    "timestamp_utc":"2025-07-14 01:54:06"
+  },
+  {
+    "city":"Seattle",
+    "country":"US",
+    "temp_celsius":28.55,
+    "feels_like_celsius":28.89,
+    "weather_main":"Clouds",
+    "weather_desc":"few clouds",
+    "humidity":48,
+    "wind_speed":5.36,
+    "timestamp_utc":"2025-07-14 01:56:43"
+  }
+]

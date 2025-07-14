@@ -1,0 +1,4 @@
+city,country,temp_celsius,feels_like_celsius,weather_main,weather_desc,humidity,wind_speed,timestamp_utc
+Los Angeles,US,20.68,20.81,Clouds,overcast clouds,77,6.17,2025-07-14 01:53:33
+Mumbai,IN,27.99,32.54,Clouds,broken clouds,83,3.6,2025-07-14 01:54:06
+Seattle,US,28.55,28.89,Clouds,few clouds,48,5.36,2025-07-14 01:56:43
